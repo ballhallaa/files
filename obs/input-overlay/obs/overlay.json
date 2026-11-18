@@ -83,20 +83,19 @@
             "z_level": 1
         },
         {
-            "code": 107,
-            "id": "space0",
+            "id": "scroll_down",
+            "type": 4,
             "mapping": [
-                1301,
-                4,
-                422,
+                1,
+                1053,
+                421,
                 128
             ],
             "pos": [
                 0,
                 266
             ],
-            "type": 1,
-            "z_level": 1
+            "z_level": 2
         }
     ],
     "flags": 0,
